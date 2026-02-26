@@ -1,0 +1,50 @@
+div{
+    text-align: left;
+    background-color:rgb(209, 219, 227);
+    padding: 50px;
+    margin: -10px;   
+}
+.a{
+    background-color: royalblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.b{
+    background-color:darkcyan;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 70px;
+}
+section{
+    width: 300px;
+    padding: 50px;
+}
+footer{
+    text-align: left;
+    background-color:white;
+    padding: 20px;
+    margin: 0 -10px -10px -10px;
+    width:100%;
+    position:fixed;
+    bottom:0;
+}
+.c
+{
+    margin-left: 135px;
+}
+hr
+{
+    margin-left: 135px;
+}
+h1{
+    font-size: 50px;
+}
