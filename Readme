@@ -1,0 +1,57 @@
+# HTML & CSS Week 6 Assignments
+
+This directory contains a collection of HTML and CSS assignments for Week 6, demonstrating fundamental web development skills.
+
+## Project Structure
+
+```
+htm,css-week6/
+├── Readme
+├── asserts/
+├── Assignment1/
+│   ├── html1.html
+│   └── css1.css
+├── Assignment2/
+│   ├── html2.html
+│   └── css2.css
+├── Assignment3/
+│   ├── html3.html
+│   └── css3.css
+└── Assignment4/
+    ├── html4.html
+    └── css4.css
+```
+
+## Assignments Overview
+
+### Assignment 1
+- **Files**: `html1.html`, `css1.css`
+- First assignment focusing on HTML structure and basic CSS styling.
+
+### Assignment 2
+- **Files**: `html2.html`, `css2.css`
+- Second assignment building on HTML and CSS concepts.
+
+### Assignment 3
+- **Files**: `html3.html`, `css3.css`
+- Third assignment incorporating more advanced CSS techniques.
+
+### Assignment 4
+- **Files**: `html4.html`, `css4.css`
+- Fourth assignment combining HTML and CSS for a complete web page.
+
+## How to View
+
+To view any assignment:
+1. Navigate to the respective assignment folder
+2. Open the HTML file in a web browser
+3. The CSS file will be automatically applied through the HTML file's stylesheet link
+
+## Technologies Used
+
+- **HTML5**: Semantic markup and structure
+- **CSS3**: Styling, layout, and responsive design
+
+---
+
+*Last Updated: May 2026*
