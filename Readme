@@ -1,19 +1,19 @@
 # HTML & CSS Week 6 Assignments
 
-This directory contains a collection of HTML and CSS assignments for Week 6, demonstrating fundamental web development skills.
+This repository contains a collection of HTML and CSS assignments completed during Week 6. These assignments demonstrate fundamental web development concepts including HTML structure, CSS styling, layouts, and responsive design techniques.
 
 ## Project Structure
 
-```
-htm,css-week6/
-├── Readme
-├── asserts/
+```bash
+html-css-week6/
+├── README.md
+├── assets/
 ├── Assignment1/
 │   ├── html1.html
 │   └── css1.css
 ├── Assignment2/
 │   ├── html2.html
-│   └── css2.css
+│   ├── css2.css
 ├── Assignment3/
 │   ├── html3.html
 │   └── css3.css
@@ -25,33 +25,106 @@ htm,css-week6/
 ## Assignments Overview
 
 ### Assignment 1
-- **Files**: `html1.html`, `css1.css`
-- First assignment focusing on HTML structure and basic CSS styling.
+**Files:** `html1.html`, `css1.css`
+
+- Basic HTML structure
+- Introduction to CSS styling
+- Text formatting and page elements
 
 ### Assignment 2
-- **Files**: `html2.html`, `css2.css`
-- Second assignment building on HTML and CSS concepts.
+**Files:** `html2.html`, `css2.css`
+
+- Working with additional HTML elements
+- Applying CSS properties
+- Improving page appearance
 
 ### Assignment 3
-- **Files**: `html3.html`, `css3.css`
-- Third assignment incorporating more advanced CSS techniques.
+**Files:** `html3.html`, `css3.css`
+
+- Using more advanced CSS techniques
+- Layout improvements
+- Styling enhancements
 
 ### Assignment 4
-- **Files**: `html4.html`, `css4.css`
-- Fourth assignment combining HTML and CSS for a complete web page.
+**Files:** `html4.html`, `css4.css`
 
-## How to View
+- Building a complete webpage
+- Combining multiple HTML and CSS concepts
+- Creating responsive and organized layouts
 
-To view any assignment:
-1. Navigate to the respective assignment folder
-2. Open the HTML file in a web browser
-3. The CSS file will be automatically applied through the HTML file's stylesheet link
+## How to Run
+
+1. Clone or download this repository
+
+```bash
+git clone <repository-link>
+```
+
+2. Open the project folder
+3. Navigate to any assignment folder
+4. Open the HTML file in a browser
+
+The CSS file linked in the HTML document will automatically apply the styles.
 
 ## Technologies Used
 
-- **HTML5**: Semantic markup and structure
-- **CSS3**: Styling, layout, and responsive design
+- **HTML5**
+  - Semantic tags
+  - Headings
+  - Paragraphs
+  - Lists
+  - Images
+  - Forms
+  - Links
+
+- **CSS3**
+  - Selectors
+  - Colors and backgrounds
+  - Margins and padding
+  - Borders
+  - Flexbox
+  - Positioning
+  - Responsive styling
+
+- **VS Code**
+- **Web Browser** (Chrome/Edge)
+
+## Tools Used
+
+- Visual Studio Code for development
+- Browser Developer Tools for debugging
+- Git and GitHub for version control
+
+## What I Learned
+
+Through these assignments, I learned:
+
+- How to create structured web pages using HTML
+- How CSS styles and designs web content
+- Using different CSS selectors
+- Managing spacing with margins and padding
+- Creating layouts using Flexbox
+- Linking external CSS files to HTML
+- Improving webpage appearance with colors and styling
+- Understanding responsive design basics
+- Organizing project files properly
+
+## Skills Practiced
+
+- Frontend development fundamentals
+- HTML page structuring
+- CSS styling techniques
+- Layout creation
+- Problem solving
+- Code organization
+
+## Future Improvements
+
+- Add animations using CSS
+- Improve responsive design
+- Add JavaScript functionality
+- Create more interactive pages
 
 ---
 
-*Last Updated: May 2026*
+**Last Updated:** May 2026
