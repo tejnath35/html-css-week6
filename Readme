@@ -2,7 +2,7 @@
 
 This repository contains a collection of HTML and CSS assignments completed during Week 6. These assignments demonstrate fundamental web development concepts including HTML structure, CSS styling, layouts, and responsive design techniques.
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 html-css-week6/
@@ -22,7 +22,7 @@ html-css-week6/
     └── css4.css
 ```
 
-## 📚 Assignments Overview
+## Assignments Overview
 
 ### Assignment 1
 **Files:** `html1.html`, `css1.css`
@@ -52,7 +52,7 @@ html-css-week6/
 - Combining multiple HTML and CSS concepts
 - Creating responsive and organized layouts
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone or download this repository
 
@@ -66,7 +66,7 @@ git clone <repository-link>
 
 The CSS file linked in the HTML document will automatically apply the styles.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **HTML5**
   - Semantic tags
@@ -89,13 +89,13 @@ The CSS file linked in the HTML document will automatically apply the styles.
 - **VS Code**
 - **Web Browser** (Chrome/Edge)
 
-## 🔧 Tools Used
+## Tools Used
 
 - Visual Studio Code for development
 - Browser Developer Tools for debugging
 - Git and GitHub for version control
 
-## 📖 What I Learned
+## What I Learned
 
 Through these assignments, I learned:
 
@@ -109,7 +109,7 @@ Through these assignments, I learned:
 - Understanding responsive design basics
 - Organizing project files properly
 
-## 🎯 Skills Practiced
+## Skills Practiced
 
 - Frontend development fundamentals
 - HTML page structuring
@@ -118,7 +118,7 @@ Through these assignments, I learned:
 - Problem solving
 - Code organization
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add animations using CSS
 - Improve responsive design
