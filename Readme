@@ -8,16 +8,16 @@ This repository contains a collection of HTML and CSS assignments completed duri
 html-css-week6/
 ├── README.md
 ├── assets/
-├── Assignment1/
+├── FlexLayout-1/
 │   ├── html1.html
 │   └── css1.css
-├── Assignment2/
+├── FlexLayout-2/
 │   ├── html2.html
 │   ├── css2.css
-├── Assignment3/
+├── GridLayout-1/
 │   ├── html3.html
 │   └── css3.css
-└── Assignment4/
+└── GridLayout-2/
     ├── html4.html
     └── css4.css
 ```
